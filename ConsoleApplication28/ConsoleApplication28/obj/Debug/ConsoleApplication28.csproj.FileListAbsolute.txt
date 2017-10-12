@@ -1,0 +1,6 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\bin\Debug\ConsoleApplication28.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication28\ConsoleApplication28\obj\Debug\ConsoleApplication28.pdb
